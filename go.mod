@@ -1,6 +1,6 @@
 module github.com/Pyrinpyi/go-muhash
 
-go 1.18
+go 1.16
 
 require (
 	github.com/dvyukov/go-fuzz v0.0.0-20210103155950-6a8e9d1f2415 // indirect
